@@ -10,5 +10,5 @@ example for the array A={4,5,10,11,6} and the number M=-1 will return the follow
 
 - clone the repo `git clone https://github.com/welbhen/programming-test-revobet.git`
 - navigate to your dir using the terminal
-- run `node test` ([node.js]<https://nodejs.org/en/> required for this)
+- run `node test` ([node.js](https://nodejs.org/en/) required for this)
 - you can run new tests by adding new arrays and numbers, and then, calling the function at the end of the program as such `checkPairs(yourNewArray, yournewNumber)`
